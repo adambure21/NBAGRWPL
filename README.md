@@ -1,2 +1,2 @@
-# NBAGRWPL
-NBA documentation at GRWPL
+# GRWPL
+CO documentation at GRWPL
